@@ -1,6 +1,6 @@
 # PHP_PDO_CONNECTION
 PHP Database Connection Using PDO Method
-This repository is guide for beginners of using PDO method in connecting to this database.
+This repository is a guide for beginners of using PDO method in connecting to the database.
 This includes:
 1. Connecting to Database.
 2. Inserting Data to Database.
